@@ -1,6 +1,5 @@
 package main
 
-//min(int, min(int, min(int, int)))
 func recur(a int) string {
 	var str string
 	if a == 2 {
